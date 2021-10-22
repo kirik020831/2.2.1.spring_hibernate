@@ -18,7 +18,6 @@ public class MainApp {
 
         userService.add(new User("User1", "Lastname1", "user1@mail.ru",
                 new Car("Nissan Skyline GT-R R34", 30112013)));
-
         userService.add(new User("User2", "Lastname2", "user2@mail.ru",
                 new Car("MAZDA RX-7", 13061986)));
         userService.add(new User("User3", "Lastname3", "user3@mail.ru",
